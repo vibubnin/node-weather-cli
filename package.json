@@ -1,0 +1,24 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "engines": {
+    "node": ">14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Viktor Bubnin",
+  "license": "ISC",
+  "homepage": "https://purpleschool.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://purpleschool.ru"
+  }
+}
