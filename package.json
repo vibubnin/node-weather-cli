@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "node-weather-cli",
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
@@ -19,10 +19,10 @@
   ],
   "author": "Viktor Bubnin",
   "license": "ISC",
-  "homepage": "https://purpleschool.ru",
+  "homepage": "https://github.com/vibubnin/node-weather-cli",
   "repository": {
     "type": "git",
-    "url": "https://purpleschool.ru"
+    "url": "https://github.com/vibubnin/node-weather-cli"
   },
   "dependencies": {
     "axios": "^0.24.0",
